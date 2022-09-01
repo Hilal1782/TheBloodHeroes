@@ -1,4 +1,4 @@
-##Sections Information.
+## Sections Information.
 
 1. Home (Solution>> Index page)
 
@@ -28,7 +28,7 @@
 	Email , Social Media Links
 
 
-Contents needed :
+## Contents needed :
 
 	.Messages , Teams (included in Newsletters Waha se inko idea hojayega)
 
