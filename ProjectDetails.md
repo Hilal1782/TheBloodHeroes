@@ -27,6 +27,8 @@
 9. Contact Us (Solution>> include a form at the end of home page also include its link in the dropdown)
 	Email , Social Media Links
 
+10. Log In/Signup/Profile (To be done later)
+
 
 ## Contents needed :
 
