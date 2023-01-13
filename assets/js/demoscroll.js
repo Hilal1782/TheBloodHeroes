@@ -177,8 +177,8 @@
 
 								for (k in styles[i][j]) {
 
-									$z = $('<span data-class="' + k + '">, ' + styles[i][j][k].replace('*', '') + '</span>')
-										.appendTo($y);
+									$z = $('<span data-class="' + k + '">, ' + styles[i][j][k].replace('*', '') + '</span>'
+									).appendTo($y);
 
 									if (styles[i][j][k].substr(-1, 1) == '*')
 										$z.addClass('default');
