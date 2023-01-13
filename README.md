@@ -1,3 +1,4 @@
 # TheBloodHeroes
 ### This is the repository for building the website for **The Blood Heroes** organization.
-#### It is now available for public use.
+### You can find the live website here: www.thebloodheroes.org
+#### This repository is now available for everyone to use for their organizations according to the license provided with this repository.
